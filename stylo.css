@@ -1,0 +1,63 @@
+body {
+  background-color:#ccc7cb;
+  font-family: monospace;
+  margin-top: 0;
+  margin-right: 0;
+  margin-left: 0;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dashed;
+  width: 45%;
+  height: 5px;
+  border-radius: 5px;
+  border-spacing: 10px;
+  border-width: 4px;
+}
+
+head {
+  font-family: monospace;
+}
+title{
+  color:#ccc7cb;
+}
+a:hover{
+  color: #000000;
+}
+h1:hover{
+  color: #000000;
+}
+/*************************ALL UNDER THIS ARE THE CLASS SELECTORS*/
+/*'ID' is unique for everyone, whereas 'Class' is not unique but usable for everyone.*/
+.Ehety{
+  font-family: 'Press Start 2P', cursive;
+  color: blue;
+  letter-spacing: 4px;
+  padding-left: 450px;
+  padding-right: 450px;
+  position: fixed;
+}
+.myimg{
+  border-top-left-radius: 0%;
+  border-top-right-radius: 0%;
+  border-bottom-left-radius: 0%;
+  border-bottom-right-radius: 0%;
+  border-color: #000000;
+  padding-left: 512px;
+  padding-right:512px;
+  background-color: #ccc7cb;
+  margin: 0;
+}
+.tebil:hover{
+  color:#badcfe;
+}
+.bgppng{
+  position: relative;
+  top: 1000px;
+  left: 700px;
+
+}
+.logome{
+  position: fixed;
+}
